@@ -23,6 +23,12 @@ Class 0: Non-bar areas (e.g., water, vegetation, infrastructure)
 This model has been tested on imagery from rivers like the Brahmaputra, Ganga, and Teesta, where bar morphology changes rapidly due to monsoonal hydrology and anthropogenic interventions (e.g., dam construction, embankments).
 
 
+📸 Input and Output Example
+Input: 8-band satellite imagery (e.g., Sentinel-2 :(R,G,B,NIR,NDWI,NDVI)  Sentinel-1 : (SAR-VV AND VH)
+
+Output: Binary mask of bar vs. non-bar regions
+
+
 ![image](https://github.com/user-attachments/assets/7b18bb45-6c90-4f66-86b8-87a29ad6ac0e)
 
 
