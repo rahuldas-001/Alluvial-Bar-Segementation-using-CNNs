@@ -2,6 +2,8 @@
 This repository provides a PyTorch-based binary semantic segmentation framework designed to detect alluvial bars from satellite imagery. These geomorphological features — such as mid-channel bars, point bars, and braid bars — are crucial indicators of fluvial processes, sediment transport, and channel evolution.
 
 🌍 Context
+
+
 As a geomorphologist, alluvial bar mapping helps in:
 
 Understanding braided river dynamics
@@ -20,7 +22,7 @@ Class 0: Non-bar areas (e.g., water, vegetation, infrastructure)
 
 
 📊 Use Case Example
-This model has been tested on imagery from rivers like the Brahmaputra, Ganga, and Teesta, where bar morphology changes rapidly due to monsoonal hydrology and anthropogenic interventions (e.g., dam construction, embankments).
+This model has been tested on imagery with weak labels genertaed using indices such as NDWI from Google Earth Engine from Bhrahmaputra river where bar morphology changes rapidly due to monsoonal hydrology and anthropogenic interventions (e.g., dam construction, embankments).
 
 
 📸 Input and Output Example
