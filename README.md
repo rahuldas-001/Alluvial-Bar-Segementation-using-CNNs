@@ -24,6 +24,8 @@ This model has been tested on imagery from rivers like the Brahmaputra, Ganga, a
 
 
 📸 Input and Output Example
+
+
 Input: 8-band satellite imagery (e.g., Sentinel-2 :(R,G,B,NIR,NDWI,NDVI)  Sentinel-1 : (SAR-VV AND VH)
 
 Output: Binary mask of bar vs. non-bar regions
