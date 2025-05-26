@@ -34,5 +34,6 @@ Output: Binary mask of bar vs. non-bar regions
 
 
 ![image](https://github.com/user-attachments/assets/7b18bb45-6c90-4f66-86b8-87a29ad6ac0e)
+![Screenshot 2025-05-26 113430](https://github.com/user-attachments/assets/a53b1afd-e16b-4363-a3d6-7233ed54c45d)
 
 
